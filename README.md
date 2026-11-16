@@ -1,4 +1,4 @@
-# REPORT 2: `INTERVIEW_REPORT.md`
+
 ## How I Built Inventory Flow — Project & Process Report
 
 > **Honesty statement:** This project is a **simulated business scenario** built as a resume project. I did not interview real users or observe a real business. All requirements are my own reasoned assumptions, stated as such throughout. AI (an LLM assistant) was used as an engineering mentor and co-planner; every decision below was made or approved by me.
@@ -50,5 +50,3 @@ I would do **real user research** (talk to a shop owner or warehouse worker) bef
 Finalize status rules → build and test module by module → deploy to Netlify/Railway → update this report at each milestone → add unit test coverage progressively.
 
 ---
-
-Both reports are ready. One reminder: **before uploading `INTERVIEW_REPORT.md`, read it and adjust anything that doesn't yet match reality** — especially sections 9 and 10, which you'll update as you actually build. That's what makes it credible in an interview.
